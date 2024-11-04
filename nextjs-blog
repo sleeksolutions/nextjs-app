@@ -1,0 +1,1 @@
+npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/sleeksolutions/nextjs-app.git"
